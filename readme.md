@@ -22,3 +22,8 @@ This project builds a **Decision Tree Classifier** to predict whether a customer
 ## 📈 Results
 - Accuracy, confusion matrix, classification report
 - Visualized decision tree using `matplotlib`
+
+### 🖼️ Decision Tree Visualization
+
+![Decision Tree](decision_tree_plot.png)
+
